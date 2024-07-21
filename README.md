@@ -9,6 +9,7 @@ magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a
 # How to use? 
 
 python3 pattern-finder.py
+
 Enter pattern to search for: 
 
 ![Banner](images/screenshot-example.png)
